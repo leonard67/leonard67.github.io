@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.unsw.edu.au/staff/leonard-leye-li'>UNSW Sydney</a>
 
 profile:
   align: right
