@@ -8,10 +8,11 @@ This is a personal academic website for Leonard Leye Li (Senior Lecturer, UNSW B
 
 The personal website contains the following tabs:
 
-- Home/contact page
-- Publications and working papers
-- Courses and supervision
-- Python workshop content
+- Home
+- Research
+- Teaching
+- Python Workshop
+- CV
 
 ## Deployment
 

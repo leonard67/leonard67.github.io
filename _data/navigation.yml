@@ -1,9 +1,12 @@
 main:
   - title: "Research"
-    url: /publications/
+    url: /research/
 
   - title: "Teaching"
     url: /teaching/
 
   - title: "Python Workshop"
     url: /python-workshop/
+
+  - title: "CV"
+    url: /cv/
