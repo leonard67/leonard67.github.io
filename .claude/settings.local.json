@@ -6,7 +6,13 @@
       "Bash(git clone:*)",
       "Bash(rm d:/Dropbox/leonard67.github.io/_publications/*.md)",
       "Bash(rm d:/Dropbox/leonard67.github.io/_teaching/*.md)",
-      "Bash(git -C d:/Dropbox/leonard67.github.io status --short)"
+      "Bash(git -C d:/Dropbox/leonard67.github.io status --short)",
+      "Bash(ls -d \"/d/Dropbox/leonard67.github.io\"/*/)",
+      "Bash(ls -d \"/d/Dropbox/leonard67.github.io/images\"/*/)",
+      "Bash(grep -E \"site\\\\.\\(talks|portfolio|posts\\)\" \"/d/Dropbox/leonard67.github.io/_pages\"/*.html \"/d/Dropbox/leonard67.github.io/_pages\"/*.md)",
+      "Bash(rm -rf _talks/ _portfolio/ _drafts/ talkmap/ markdown_generator/ scripts/ images/themes/ _data/comments/ .github/)",
+      "Bash(rm -f talkmap.ipynb talkmap_out.ipynb talkmap.py docker-compose.yaml Dockerfile _config_docker.yml package.json CONTRIBUTING.md README.md _data/authors.yml _data/cv.json _pages/cv.md _pages/cv-json.md _pages/talks.html _pages/portfolio.html _pages/talkmap.html _pages/markdown.md _pages/non-menu-page.md _pages/archive-layout-with-content.md _pages/category-archive.html _pages/tag-archive.html _pages/year-archive.html _pages/collection-archive.html _pages/page-archive.html images/500x300.png images/editing-talk.png images/bio-photo.jpg images/bio-photo-2.jpg)",
+      "Bash(grep -v \"^\\\\./$\")"
     ]
   }
 }

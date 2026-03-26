@@ -31,12 +31,9 @@ Financial accounting · Shareholder litigation · Stock price crash risk · Volu
 | **Master of Finance** (with Distinction), Australian National University | 2013–2014 |
 | **Bachelor of Economics in Statistics**, Shanghai University of Finance and Economics | 2008–2012 |
 
-## Selected Publications
-
-**Featured Publications**
+## Publications
 
 1. "Flu fallout: Information production constraints and corporate disclosure" (with Chen Chen, Louise Yi Lu, Rencheng Wang). *Journal of Accounting Research* 2023, 64(4): 1063–1108. [[doi]](https://doi.org/10.1111/1475-679X.12486)
-   *Best Paper Award, AFAANZ 2020 Annual Conference.*
 
 2. "Death is a Law: The effect of CEO death anxiety on management forecasts" (with Yu Flora Kuang, Louise Yi Lu, Bo Qin). *Accounting, Organizations and Society* 2022, 102: 101350. [[doi]](https://doi.org/10.1016/j.aos.2022.101350)
 
