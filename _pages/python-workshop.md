@@ -11,9 +11,9 @@ This workshop is part of the **AFAANZ Doctoral Education Network (AFDEN)** progr
 
 The workshop covers practical Python programming skills applied to accounting and finance research contexts, including data collection, processing, and empirical analysis.
 
-This course is provied in September every year. To register, see the information in [AFDEN website](https://www.afaanz.org/doctoral-education).
+This workshop is provided in September every year. To register, see the information in [AFDEN website](https://www.afaanz.org/doctoral-education).
 
-All the courase materials are shared in the [GitHub repository](https://github.com/leonard67/AFDEN-Python-Workshop).
+All the course materials are shared in the [GitHub repository](https://github.com/leonard67/AFDEN-Python-Workshop).
 
 ### Topics Covered
 
@@ -30,4 +30,4 @@ Doctoral students and researchers in accounting, finance, and related discipline
 
 ---
 
-*For workshop materials or inquiries, please contact [leye.li@unsw.edu.au](mailto:leye.li@unsw.edu.au).*
+For workshop materials or inquiries, please contact [leye.li@unsw.edu.au](mailto:leye.li@unsw.edu.au).
