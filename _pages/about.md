@@ -11,10 +11,6 @@ I am a Senior Lecturer in the [School of Accounting, Auditing & Taxation](https:
 
 My research examines corporate disclosure, shareholder litigation, stock price crash risk, and the economic consequences of accounting information. My work has been published in leading accounting and finance journals including the *Journal of Accounting Research*, *Journal of Accounting and Economics*, and *Accounting, Organizations and Society*.
 
-## Research Interests
-
-Financial accounting · Shareholder litigation · Stock price crash risk · Voluntary disclosure
-
 ## Academic Positions
 
 | | |
@@ -33,13 +29,13 @@ Financial accounting · Shareholder litigation · Stock price crash risk · Volu
 
 ## Publications
 
-1. "Flu fallout: Information production constraints and corporate disclosure" (with Chen Chen, Louise Yi Lu, Rencheng Wang). *Journal of Accounting Research* 2023, 64(4): 1063–1108. [[doi]](https://doi.org/10.1111/1475-679X.12486)
+1. "Flu fallout: Information production constraints and corporate disclosure" (with Chen Chen, Louise Yi Lu, Rencheng Wang). [*Journal of Accounting Research*](https://doi.org/10.1111/1475-679X.12486) 2023, 64(4): 1063–1108.
 
-2. "Death is a Law: The effect of CEO death anxiety on management forecasts" (with Yu Flora Kuang, Louise Yi Lu, Bo Qin). *Accounting, Organizations and Society* 2022, 102: 101350. [[doi]](https://doi.org/10.1016/j.aos.2022.101350)
+2. "Death is a Law: The effect of CEO death anxiety on management forecasts" (with Yu Flora Kuang, Louise Yi Lu, Bo Qin). [*Accounting, Organizations and Society*](https://doi.org/10.1016/j.aos.2022.101350) 2022, 102: 101350.
 
-3. "Financial statement comparability and expected crash risk" (with Jeong-Bon Kim, Louise Yi Lu, Yangxin Yu). *Journal of Accounting and Economics* 2016, 61(2–3): 294–312. [[doi]](https://doi.org/10.1016/j.jacceco.2015.12.003)
+3. "Financial statement comparability and expected crash risk" (with Jeong-Bon Kim, Louise Yi Lu, Yangxin Yu). [*Journal of Accounting and Economics*](https://doi.org/10.1016/j.jacceco.2015.12.003) 2016, 61(2–3): 294–312.
 
-See the [Publications](/publications/) page for a full list of journal articles and working papers.
+See the [Research](/publications/) page for a full list of journal articles and working papers.
 
 ## Honors and Awards
 

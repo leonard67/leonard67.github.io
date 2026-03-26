@@ -9,8 +9,6 @@ author_profile: true
 
 Financial accounting · Data analytics · Financial analysis
 
----
-
 ## Courses Taught
 
 ### UNSW Sydney
@@ -28,7 +26,7 @@ Financial accounting · Data analytics · Financial analysis
 
 | Course | Period |
 |---|---|
-| Python Coding for Accounting and Finance Research | 2025–present |
+| [Python Coding for Accounting and Finance Research](/python-workshop/) | 2025–present |
 
 ### University of Washington
 
@@ -51,16 +49,16 @@ Financial accounting · Data analytics · Financial analysis
 
 ### UNSW Sydney
 
-| Student | Role | Period |
-|---|---|---|
-| Shelly Xiaotong Deng | Ph.D. Co-Supervisor | 2024–present |
-| Mingzhe Wu | Honours Co-Supervisor | 2024 |
-| Layla Yixuan Li | Honours Co-Supervisor | 2023 |
+| Student | Role | Year | Initial Placement |
+|---|---|---|---|
+| Shelly Xiaotong Deng | Ph.D. Co-Supervisor | 2024–present | |
+| Mingzhe Wu | Honours Co-Supervisor | 2024 | |
+| Layla Yixuan Li | Honours Co-Supervisor | 2023 | [Teneo](https://www.teneo.com/)
 
 ### Australian National University
 
-| Student | Role | Period |
-|---|---|---|
-| Kathy Dongyue Wang | Ph.D. External Committee Member | 2019–2023 |
-| Summer Rui Huang | Ph.D. External Committee Member | 2019–2022 |
-| Ziqi Gao | Ph.D. External Committee Member | 2019–2022 |
+| Student | Role | Year | Initial Placement |
+|---|---|---|---|
+| Kathy Dongyue Wang | Ph.D. External Committee Member | 2019–2023 | [ANU](https://rsa.anu.edu.au/about/staff-directory/dr-kathy-wang) |
+| Summer Rui Huang | Ph.D. External Committee Member | 2019–2022 | Australian Government Department of Industry, Science, and Resources|
+| Ziqi Gao | Ph.D. External Committee Member | 2019–2022 | |

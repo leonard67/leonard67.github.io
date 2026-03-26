@@ -9,9 +9,11 @@ author_profile: true
 
 This workshop is part of the **AFAANZ Doctoral Education Network (AFDEN)** program, designed for doctoral students and early-career researchers in accounting and finance who want to leverage Python for empirical research.
 
-### Overview
-
 The workshop covers practical Python programming skills applied to accounting and finance research contexts, including data collection, processing, and empirical analysis.
+
+This course is provied in September every year. To register, see the information in [AFDEN website](https://www.afaanz.org/doctoral-education).
+
+All the courase materials are shared in the [GitHub repository](https://github.com/leonard67/AFDEN-Python-Workshop).
 
 ### Topics Covered
 
