@@ -1,36 +1,125 @@
 ---
-layout: archive
-title: "Publications"
+layout: single
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+<p>You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.</p>
 {% endif %}
 
-{% include base_path %}
+<h2>Featured Publications</h2>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<ol>
+  <li>
+    <p>"Flu fallout: Information production constraints and corporate disclosure" (with Chen Chen, Louise Yi Lu, Rencheng Wang). <em>Journal of Accounting Research</em> 2023, 64(4): 1063–1108.
+    <a href="https://doi.org/10.1111/1475-679X.12486">[doi]</a><br>
+    <small>Best Paper Award, AFAANZ 2020 Annual Conference. Featured in <em>BusinessThink</em>, <em>Research@SMU e-Newsletter</em>, and <em>Monash Business School IMPACT</em>.</small></p>
+  </li>
+  <li>
+    <p>"Death is a Law: The effect of CEO death anxiety on management forecasts" (with Yu Flora Kuang, Louise Yi Lu, Bo Qin). <em>Accounting, Organizations and Society</em> 2022, 102: 101350.
+    <a href="https://doi.org/10.1016/j.aos.2022.101350">[doi]</a><br>
+    <small>Featured in <em>BusinessThink</em>.</small></p>
+  </li>
+  <li>
+    <p>"Financial statement comparability and expected crash risk" (with Jeong-Bon Kim, Louise Yi Lu, Yangxin Yu). <em>Journal of Accounting and Economics</em> 2016, 61(2–3): 294–312.
+    <a href="https://doi.org/10.1016/j.jacceco.2015.12.003">[doi]</a><br>
+    <small>Featured in <em>CFA Enterprising Investor</em>.</small></p>
+  </li>
+</ol>
 
+<details>
+<summary><h2 style="display:inline; cursor:pointer;">Other Publications</h2></summary>
+<ol start="4">
+  <li>
+    <p>"The impact of local corruption on firms' narrative R&amp;D disclosures" (with Rui Huang, Xuejun Jiang, Louise Yi Lu, Yangxin Yu). <em>Journal of Corporate Finance</em> 2025, 94: 102841.
+    <a href="https://doi.org/10.1016/j.jcorpfin.2025.102841">[doi]</a><br>
+    <small>Featured in <em>BusinessThink</em>.</small></p>
+  </li>
+  <li>
+    <p>"The opioid crisis, employee health capital, and corporate information production" (with Louise Yi Lu, Dongyue Wang, Mark Wilson). <em>European Accounting Review</em> 2025, 34(2): 721–749.
+    <a href="https://doi.org/10.1080/09638180.2023.2272622">[doi]</a></p>
+  </li>
+  <li>
+    <p>"Repetitive key audit matters and audit effort" (with Wenhui Lin, Lina Zixuan Li, David Hay). <em>Pacific Accounting Review</em> 2025, 37(2): 209–242.
+    <a href="https://doi.org/10.1108/PAR-08-2024-0168">[doi]</a></p>
+  </li>
+  <li>
+    <p>"Does client importance affect key audit matters reporting? New Zealand evidence" (with Ruoyu Ji, Lina Zixuan Li, Gary S. Monroe). <em>Pacific Accounting Review</em> 2024, 6(3–4): 277–296.
+    <a href="https://doi.org/10.1108/PAR-04-2024-0072">[doi]</a></p>
+  </li>
+  <li>
+    <p>"Managerial litigation risk and auditor choice" (with Gary S. Monroe, Jeff Coulton). <em>International Journal of Auditing</em> 2024, 28(1): 142–169.
+    <a href="https://doi.org/10.1111/ijau.12322">[doi]</a></p>
+  </li>
+  <li>
+    <p>"Workforce diversity and financial statement readability" (with Louise Yi Lu, Yi Wang, Yangxin Yu). <em>Accounting &amp; Finance</em> 2023, 63(S1): 1599–1631.
+    <a href="https://dx.doi.org/10.1111/acfi.13056">[doi]</a><br>
+    <small>Peter Brownell Manuscript Award, <em>Accounting &amp; Finance</em> 2023–24.</small></p>
+  </li>
+  <li>
+    <p>"Managerial litigation risk and corporate investment efficiency: Evidence from Universal Demand laws" (with Gary S. Monroe, Jeff Coulton). <em>Journal of Empirical Legal Studies</em> 2023, 20(1): 196–232.
+    <a href="https://dx.doi.org/10.1111/jels.12340">[doi]</a><br>
+    <small><em>JELS</em> top 10 most-cited papers published in 2023. Featured in <em>Faculti</em>.</small></p>
+  </li>
+  <li>
+    <p>"The moderating effect of board gender diversity on the relation between corporate social responsibility and firm value" (with Yunyi Li, Lina Zixuan Li, Charl de Villiers). <em>Journal of Management Control</em> 2022, 33(1): 109–143.
+    <a href="https://doi.org/10.1007/s00187-022-00334-x">[doi]</a><br>
+    <small>Featured in <em>Columbia Law School's Blue Sky Blog</em> and <em>University of Auckland News and Opinions</em>.</small></p>
+  </li>
+  <li>
+    <p>"External labor market competitions and stock price crash risk: Evidence from exposures to competitor CEOs' award-winning events" (with Louise Yi Lu, Dongyue Wang). <em>Accounting &amp; Finance</em> 2022, 62(S1): 1421–1460.
+    <a href="https://doi.org/10.1111/acfi.12828">[doi]</a></p>
+  </li>
+  <li>
+    <p>"The impact of the Leahy-Smith America Invents Act on firms' R&amp;D disclosure" (with Rui Huang, Louise Yi Lu, Hai Wu). <em>European Accounting Review</em> 2021, 30(5): 1067–1104.
+    <a href="https://doi.org/10.1080/09638180.2020.1806896">[doi]</a></p>
+  </li>
+  <li>
+    <p>"Financial statement comparability and managers' use of corporate resources" (with Jeong-Bon Kim, Louise Yi Lu, Yangxin Yu). <em>Accounting &amp; Finance</em> 2021, 61(S1): 1697–1742.
+    <a href="https://doi.org/10.1111/acfi.12642">[doi]</a></p>
+  </li>
+  <li>
+    <p>"Social capital and managers' use of corporate resources" (with Ziqi Gao, Louise Yi Lu). <em>Journal of Business Ethics</em> 2021, 168(3): 593–613.
+    <a href="https://doi.org/10.1007/s10551-019-04223-7">[doi]</a></p>
+  </li>
+  <li>
+    <p>"State ownership and abnormal accruals in highly-valued firms: Evidence from China" (with Gary S. Monroe, Jenny Jing Wang). <em>Journal of Contemporary Accounting &amp; Economics</em> 2021, 17(1): 100223.
+    <a href="https://doi.org/10.1016/j.jcae.2020.100223">[doi]</a></p>
+  </li>
+</ol>
+</details>
 
-
+<details>
+<summary><h2 style="display:inline; cursor:pointer;">Working Papers</h2></summary>
+<ol>
+  <li>
+    <p>"Building Better Information: The Role of Indoor Environmental Quality" (with Bingxu Fang, Rui Huang, Louise Yi Lu, Rencheng Wang).
+    <a href="https://ssrn.com/abstract=4894690">[SSRN]</a><br>
+    <small>R&amp;R at <em>Review of Accounting Studies</em>. Presented at Shanghai University of Finance and Economics, UNSW Sydney, University of Sydney, and University of Queensland.</small></p>
+  </li>
+  <li>
+    <p>"Party Politics: Evidence on the Extent and Origin of Partisan Bias in CEOs" (with Steven F. Cahan, Lily Chen, Louise Yi Lu).<br>
+    <small>R&amp;R at <em>European Accounting Review</em>. Presented at Australian National University, Singapore Management University, University of Auckland, Macquarie University, and University of Tasmania.</small></p>
+  </li>
+  <li>
+    <p>"Topical dispersion of risk factor disclosures and stock price crash risk" (with Zihang Peng).
+    <a href="https://ssrn.com/abstract=5061977">[SSRN]</a><br>
+    <small>Presented at Monash University and University of Auckland.</small></p>
+  </li>
+  <li>
+    <p>"CSR contracting and management earnings guidance" (with Bo Qin, Lu Yang).<br>
+    <small>Presented at AFAANZ 2020 Annual Conference.</small></p>
+  </li>
+  <li>
+    <p>"Spillover effects of bankruptcy on voluntary disclosure" (with Ziqi Gao, Louise Yi Lu, Rencheng Wang).<br>
+    <small>Presented at AFAANZ 2021 Annual Conference and The University of Newcastle.</small></p>
+  </li>
+  <li>
+    <p>"Litigation risk and cost behavior: Evidence from derivative lawsuits" (with Gary S. Monroe, Jeff Coulton).
+    <a href="https://ssrn.com/abstract=3020842">[SSRN]</a><br>
+    <small>Presented at AAA MAS 2018 Midyear Meeting, AFAANZ 2018 Annual Conference, and The University of Melbourne.</small></p>
+  </li>
+</ol>
+</details>
