@@ -16,7 +16,7 @@ Financial accounting · Data analytics · Financial analysis
 | Course | Title | Period |
 |---|---|---|
 | ACCT3672/5972 | Accounting Analytics for Business Decision Making | 2024–present |
-| COMM1240 | Financial Management | 2026 |
+| COMM1240 | Financial Management for Actuarial Studies | 2026 |
 | COMM1140 | Financial Management | 2021–2024 |
 | COMM5601 | Interdisciplinary Applications of Analytics Techniques | 2024 |
 | COMM8101 | Statistical Methods for Business Research | 2023 |
