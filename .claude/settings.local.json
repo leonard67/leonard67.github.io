@@ -13,7 +13,13 @@
       "Bash(rm -rf _talks/ _portfolio/ _drafts/ talkmap/ markdown_generator/ scripts/ images/themes/ _data/comments/ .github/)",
       "Bash(rm -f talkmap.ipynb talkmap_out.ipynb talkmap.py docker-compose.yaml Dockerfile _config_docker.yml package.json CONTRIBUTING.md README.md _data/authors.yml _data/cv.json _pages/cv.md _pages/cv-json.md _pages/talks.html _pages/portfolio.html _pages/talkmap.html _pages/markdown.md _pages/non-menu-page.md _pages/archive-layout-with-content.md _pages/category-archive.html _pages/tag-archive.html _pages/year-archive.html _pages/collection-archive.html _pages/page-archive.html images/500x300.png images/editing-talk.png images/bio-photo.jpg images/bio-photo-2.jpg)",
       "Bash(grep -v \"^\\\\./$\")",
-      "Bash(find d:Dropboxleonard67.github.io -type f -name *.yml -o -name *.yaml)"
+      "Bash(find d:Dropboxleonard67.github.io -type f -name *.yml -o -name *.yaml)",
+      "Bash(npx getdesign@latest add kraken)",
+      "Bash(ruby --version)",
+      "Bash(jekyll --version)",
+      "Bash(bundle --version)",
+      "Bash(docker --version)",
+      "Bash(docker run:*)"
     ]
   }
 }
