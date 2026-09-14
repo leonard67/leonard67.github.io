@@ -1,34 +1,34 @@
 /* ==========================================================================
-    DEFAULT THEME - DARK VERSION
+    DEFAULT THEME - DARK VERSION ("Dark Terminal")
     ========================================================================== */
 
 /* Color codes used for the theme — Kraken design system (dark) */
-$primary-color              : #9d70f8;
-$primary-dark               : #7132f5;
-$primary-deep               : #b799fb;
-$gray                       : #9497a9;
-$dark-gray                  : #c8c8d2;
-$darker-gray                : #9497a9;
-$light-gray                 : #9497a9;
+$primary-color              : #3fe6c4;
+$primary-dark               : #2bbfa1;
+$primary-deep               : #62f0d3;
+$gray                       : #93a1a1;
+$dark-gray                  : #f2f5f4;
+$darker-gray                : #93a1a1;
+$light-gray                 : #93a1a1;
 
-$background                 : #1a1a24;
-$background-light           : #242434;
-$background-lighter         : #2e2e42;
-$text                       : #f0f0f5;
-$link                       : #9d70f8;
-$link-dark                  : #b799fb;
-$link-light                 : #7132f5;
+$background                 : #0a0d10;
+$background-light           : #10151a;
+$background-lighter         : #1c2226;
+$text                       : #f2f5f4;
+$link                       : #3fe6c4;
+$link-dark                  : #62f0d3;
+$link-light                 : #2bbfa1;
 
 /* Color codes used for the site */
 $danger-color               : #ee5f5b;
-$info-color                 : #9d70f8;
-$notice-color               : #9497a9;
-$success-color              : #149e61;
+$info-color                 : #3fe6c4;
+$notice-color               : #93a1a1;
+$success-color              : #3fe6c4;
 $warning-color              : #f89406;
 
 /* Other basic settings for the template */
-$border-radius              : 12px;
-$box-shadow                 : rgba(0,0,0,0.12) 0px 4px 24px;
+$border-radius              : 0;
+$box-shadow                 : rgba(0,0,0,0.35) 0px 2px 10px;
 $global-transition          : all 0.2s ease-in-out;
 $masthead-height            : 70px;
 $navicon-width              : 28px;
@@ -43,7 +43,7 @@ html[data-theme="dark"] {
     --global-footer-bg-color            : #{$background-light};
     --global-border-color               : #{$background-lighter};
     --global-dark-border-color          : #{$background-light};
-    --global-code-background-color      : #{$background-lighter};
+    --global-code-background-color      : #{$background-light};
     --global-code-text-color            : #{$darker-gray};
     --global-fig-caption-color          : #{$light-gray};
     --global-link-color                 : #{$link};
@@ -54,5 +54,7 @@ html[data-theme="dark"] {
     --global-text-color                 : #{$text};
     --global-text-color-light           : #{$gray};
     --global-thead-color                : #{$background-lighter};
+    --global-grid-line-color            : rgba(255,255,255,0.045);
+    --global-card-bg-color              : #{$background-light};
 }
 

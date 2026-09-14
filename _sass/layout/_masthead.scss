@@ -59,16 +59,23 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  font-size: 0.72em;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
 
   &--lg {
     padding-right: 2em;
-    font-weight: 700;
+    font-family: $display;
+    font-size: 1em;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    text-transform: none;
   }
 }
 
 .masthead__menu-item.selected a {
   color: var(--global-base-color);
-  font-weight: 700;
+  font-weight: 500;
   border-bottom: 2px solid var(--global-base-color);
   pointer-events: none;
   cursor: default;

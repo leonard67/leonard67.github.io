@@ -11,12 +11,17 @@ body {
   /* Set via _themes.scss */
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
+  background-image:
+    repeating-linear-gradient(0deg, var(--global-grid-line-color) 0px, var(--global-grid-line-color) 1px, transparent 1px, transparent 64px),
+    repeating-linear-gradient(90deg, var(--global-grid-line-color) 0px, var(--global-grid-line-color) 1px, transparent 1px, transparent 64px);
+  background-attachment: fixed;
 
   margin: 0;
   padding: $masthead-height 0 0;
   padding-bottom: 9em;
   font-family: $global-font-family;
   line-height: 1.5;
+  transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */

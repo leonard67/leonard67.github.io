@@ -151,6 +151,7 @@
     display: block;
     width: auto;
     height: auto;
+    position: relative;
   }
 
   img {
@@ -160,7 +161,48 @@
     @include breakpoint($large) {
       padding: 5px;
       border: 1px solid var(--global-border-color);
+      border-radius: $border-radius;
     }
+  }
+
+  @include breakpoint($large) {
+    &::before,
+    &::after {
+      content: "";
+      position: absolute;
+      width: 16px;
+      height: 16px;
+      border: 2px solid var(--global-base-color);
+      pointer-events: none;
+    }
+
+    &::before {
+      top: -2px;
+      left: -2px;
+      border-right: none;
+      border-bottom: none;
+    }
+
+    &::after {
+      bottom: -2px;
+      right: -2px;
+      border-left: none;
+      border-top: none;
+    }
+  }
+}
+
+.author__status {
+  display: none;
+  font-family: $monospace;
+  font-size: $type-size-8;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--global-base-color);
+  margin-top: 10px;
+
+  @include breakpoint($large) {
+    display: block;
   }
 }
 

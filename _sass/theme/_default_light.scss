@@ -1,26 +1,26 @@
 /* ==========================================================================
-    DEFAULT THEME - LIGHT VERSION
+    DEFAULT THEME - LIGHT VERSION ("Structured Grid")
     ========================================================================== */
 /* Color codes used for the theme — Kraken design system */
-$primary-color              : #7132f5;
-$primary-dark               : #5741d8;
-$primary-deep               : #5b1ecf;
-$gray                       : #686b82;
-$dark-gray                  : #101114;
-$darker-gray                : #484b5e;
-$light-gray                 : #9497a9;
-$lighter-gray               : #dedee5;
+$primary-color              : #3457ff;
+$primary-dark               : #1c3fe0;
+$primary-deep               : #142fb8;
+$gray                       : #475569;
+$dark-gray                  : #0f172a;
+$darker-gray                : #334155;
+$light-gray                 : #475569;
+$lighter-gray               : #d7dbe3;
 
 /* Color codes used for the site */
 $danger-color               : #ee5f5b;
-$info-color                 : #7132f5;
-$notice-color               : #686b82;
+$info-color                 : #3457ff;
+$notice-color               : #475569;
 $success-color              : #149e61;
 $warning-color              : #f89406;
 
 /* Other basic settings for the template */
-$border-radius              : 12px;
-$box-shadow                 : rgba(0,0,0,0.03) 0px 4px 24px;
+$border-radius              : 0;
+$box-shadow                 : rgba(15,23,42,0.05) 0px 2px 10px;
 $global-transition          : all 0.2s ease-in-out;
 $masthead-height            : 70px;
 $navicon-width              : 28px;
@@ -31,11 +31,11 @@ $sidebar-screen-min-width   : 1024px;
 /* Default light theme for the site */
 :root {
     --global-base-color                 : #{$primary-color};
-    --global-bg-color                   : #ffffff;
-    --global-footer-bg-color            : #f5f5f8;
+    --global-bg-color                   : #f7f8fa;
+    --global-footer-bg-color            : #f0f1f5;
     --global-border-color               : #{$lighter-gray};
-    --global-dark-border-color          : #c8c8d2;
-    --global-code-background-color      : #fafafa;
+    --global-dark-border-color          : #b9bfcb;
+    --global-code-background-color      : #ffffff;
     --global-code-text-color            : #{$darker-gray};
     --global-fig-caption-color          : #{$light-gray};
     --global-link-color                 : #{$primary-color};
@@ -46,5 +46,7 @@ $sidebar-screen-min-width   : 1024px;
     --global-text-color                 : #{$dark-gray};
     --global-text-color-light           : #{$light-gray};
     --global-thead-color                : #{$lighter-gray};
+    --global-grid-line-color            : rgba(15,23,42,0.05);
+    --global-card-bg-color              : #ffffff;
 }
 
