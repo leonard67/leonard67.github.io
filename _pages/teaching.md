@@ -64,6 +64,7 @@ Financial accounting · Data analytics · Financial analysis
 | Ziqi Gao | Ph.D. External Committee Member | 2019–2022 | |
 
 ### University of Auckland
+
 | Student | Role | Year | Initial Placement |
 |---|---|---|---|
 | Zhihong Liu | Ph.D. External Adviser | 2026–present | |
