@@ -55,6 +55,21 @@
     border-bottom: 1px solid var(--global-border-color);
   }
 
+  /* collapsible section triggers (<details><summary><h2>...) shouldn't carry
+     the section-heading underline — it renders as a stray line under the
+     heading text, not a full-width rule, and looks broken when collapsed */
+  details summary h2 {
+    padding-bottom: 0;
+    border-bottom: none;
+  }
+
+  /* the summary h2 is forced display:inline (see above), so its own
+     margin-top does nothing for vertical spacing — restore the same
+     rhythm between stacked <details> blocks that headings get elsewhere */
+  details {
+    margin-top: 2.5em;
+  }
+
   p, li, dl {
     font-size: 1em;
   }

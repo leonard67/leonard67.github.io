@@ -62,3 +62,8 @@ Financial accounting · Data analytics · Financial analysis
 | Kathy Dongyue Wang | Ph.D. External Committee Member | 2019–2023 | [ANU](https://rsa.anu.edu.au/about/staff-directory/dr-kathy-wang) |
 | Summer Rui Huang | Ph.D. External Committee Member | 2019–2022 | [Department of Industry](https://www.industry.gov.au/) |
 | Ziqi Gao | Ph.D. External Committee Member | 2019–2022 | |
+
+### University of Auckland
+| Student | Role | Year | Initial Placement |
+|---|---|---|---|
+| Zhihong Liu | Ph.D. External Adviser | 2026–present | |

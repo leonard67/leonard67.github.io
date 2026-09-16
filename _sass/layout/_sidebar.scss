@@ -149,7 +149,7 @@
 
   @include breakpoint($large) {
     display: block;
-    width: auto;
+    width: fit-content;
     height: auto;
     position: relative;
   }
@@ -189,20 +189,6 @@
       border-left: none;
       border-top: none;
     }
-  }
-}
-
-.author__status {
-  display: none;
-  font-family: $monospace;
-  font-size: $type-size-8;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: var(--global-base-color);
-  margin-top: 10px;
-
-  @include breakpoint($large) {
-    display: block;
   }
 }
 
